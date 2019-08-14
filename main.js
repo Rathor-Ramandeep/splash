@@ -285,7 +285,7 @@ function parseTranscription(data) {
 
 function createParticles() {
 
-	var colors = ["#2ecc71", "#27ae60", "#16a085", "#1abc9c"]
+	var colors = ["#E6B711", "#129DC0", "#55cbe8", "#E6B711"]
 
 	var elementName = "particles"
 	if($('#particles').length != 0) elementName = "particles"

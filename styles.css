@@ -80,18 +80,18 @@ input[type=file] {
 .green-left { 
     height:10px;
     /*width: 100%;*/
-    background-color: #0b8261;
+    background-color: #129DC0;
 }
 
 .brown-right {
     height: 10px;
     /*width: 100%;*/
-    background-color: #522c1b;
+    background-color: #E09E19;
 }
 
 .parallax { 
     /* The image used */
-    background-image: url("https://durhamcollege.ca/wp-content/uploads/ai-hub-header.jpg");
+    background-image: url("img/S.S_Logo_RGB.png");
 
     z-index:5;
     /* Set a specific height */
@@ -105,7 +105,7 @@ input[type=file] {
 
 .parallax-splash { 
     /* The image used */
-    background-image: url("https://durhamcollege.ca/wp-content/uploads/ai-hub-header.jpg");
+    background-image: url("img/S.S_Logo_RGB.png");
 
     z-index:5;
     /* Set a specific height */
@@ -155,7 +155,7 @@ input[type=file] {
 .sk-cube-grid .sk-cube {
   width: 33%;
   height: 33%;
-  background-color: #2ecc71;
+  background-color: #129DC0;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
           animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
